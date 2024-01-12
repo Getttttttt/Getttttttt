@@ -96,10 +96,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Getttttttt&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 40px;"> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Getttttttt&show_icons=true&count_private=true&hide_border=true" align="center" />
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Getttttttt&layout=compact&line_height=20&theme=xcode&border_radius=20">
-</div>
+</div>  
 
 <p align = "center">
   <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Getttttttt&theme=xcode&radius=64">

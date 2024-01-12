@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 40px;"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Getttttttt&show_icons=true&theme=tokyonight" style="width: 56%; height: 100%;" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Getttttttt" style="width: 40%; height: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Getttttttt" style="width: 40%; height: 90%;" />
 </div>
 
 <div align="center"> 

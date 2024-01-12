@@ -1,7 +1,7 @@
 ### Hi there is Get👋
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 40px;"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Getttttttt&show_icons=true&theme=xcode&layout=compact&line_height=30&theme=dracula&border_radius=20"/> 
+  <img src = "https://github-readme-stats.vercel.app/api?username=Getttttttt&count_private=true&show_icons=true&line_height=30&theme=dracula&include_all_commits=true&hide=contribs,prs&border_radius=20">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Getttttttt&layout=compact&line_height=20&theme=xcode&border_radius=20">
 </div>
 

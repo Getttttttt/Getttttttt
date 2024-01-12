@@ -97,7 +97,7 @@
 
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Getttttttt&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Getttttttt&show_icons=true&count_private=true&hide_border=true&line_height=20"/>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Getttttttt&layout=compact&line_height=20&theme=xcode&border_radius=20">
 </div>  
 

@@ -1,8 +1,8 @@
 ### Hi there is Get👋
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 40px;"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Getttttttt&show_icons=true&theme=tokyonight" style="width: 56%; height: 100%;" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Getttttttt" style="width: 40%; height: 90%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Getttttttt&show_icons=true&theme=tokyonight&layout=compact&line_height=20&theme=dracula&border_radius=20"/> 
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Getttttttt&layout=compact&line_height=20&theme=dracula&border_radius=20">
 </div>
 
 <div align="center"> 

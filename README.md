@@ -1,11 +1,14 @@
 ### Hi there is Get👋
 
-<div align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Getttttttt&show_icons=true&theme=tokyonight" /> 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Getttttttt" />
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Getttttttt&show_icons=true&theme=tokyonight" style="width: 48%; height: auto;" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Getttttttt" style="width: 48%; height: auto;" />
 </div>
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Getttttttt&theme=xcode" /> </div>
+<div align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Getttttttt&theme=xcode" /> 
+</div>
+
 
 
 <!--

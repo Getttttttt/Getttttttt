@@ -1,6 +1,6 @@
 
 ### Hi, there 👏  
-### <div align="center">I'm Get (Entong Gao), a part-time full-stack developer </div>  
+### <div align="center">I'm Get (Entong Gao), a full-stack developer </div>  
   
 
 - 🎓 BS student at [BUAA](https://www.buaa.edu.cn/), 8/2021. IS / Information management and information system.  

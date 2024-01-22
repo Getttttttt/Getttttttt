@@ -6,7 +6,7 @@
 - 🎓 BS student at [BUAA](https://www.buaa.edu.cn/), 8/2021. IS / Information management and information system.  
   
 
-- 🚀 Intership: [Orange](https://www.orange.com/en) SDE, 2023  -> [Tsinghua University Future Lab](https://thfl.tsinghua.edu.cn/en/) SDE, 2024 -> [Orange](https://www.orange.com/en) SDE, 2024
+- 🚀 Intership: [Orange](https://www.orange.com/en) SDE, 2023  -> [Tsinghua University, Future Lab](https://thfl.tsinghua.edu.cn/en/) SDE, 2024 -> [Orange](https://www.orange.com/en) SDE, 2024
   
 
 - 💪Python / Java / React / SprintBoot / SQL / C / JavaScript / MATLAB / R  

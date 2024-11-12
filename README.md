@@ -2,9 +2,9 @@
 ### Hi, there 👏  
 ### <div align="center">I'm Get (Entong Gao), a full-stack developer </div>  
   
-- 🎓 Phd at [PKU](https://www.pku.edu.cn/), 8/2025. IS / Information system.  
+- 🎓 Phd at [Peking University](https://www.pku.edu.cn/), 8/2025. IS / Information system.  
 
-- 🎓 BS student at [BUAA](https://www.buaa.edu.cn/), 8/2021. Information management and information system.  
+- 🎓 BS student at [Beihang University](https://www.buaa.edu.cn/), 8/2021. Information management and information system.  
 
 - 🚀 Internship: [Orange](https://www.orange.com/en) SDE, 2023  -> [Tsinghua University, Future Lab](https://thfl.tsinghua.edu.cn/en/) SDE, 2024 -> [Orange](https://www.orange.com/en) SDE, 2024
   

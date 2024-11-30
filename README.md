@@ -1,6 +1,6 @@
 
 ### Hi, there 👏  
-### <div align="center">I'm Get (Entong Gao), a full-stack developer </div>  
+### <div align="center">I'm Get</div>  
   
 - 🎓 Phd at [Peking University](https://www.pku.edu.cn/), 8/2025. IS / Information system.  
 
@@ -15,7 +15,7 @@
 - ✉️Email me at: [getgao@buaa.edu.cn](getgao@buaa.edu.cn)  [getentonggao@gmail.com](getentonggao@gmail.com)
   
 
-  
+- My orcid: [https://orcid.org/0009-0008-1096-8396](https://orcid.org/0009-0008-1096-8396)
   
 
 <br/>  

@@ -12,7 +12,7 @@
 - 💪Python / Java / React / SprintBoot / SQL / C / JavaScript / MATLAB / R  
   
 
-- ✉️Email me at: [getgao@buaa.edu.cn](getgao@buaa.edu.cn)  [getentonggao@gmail.com](getentonggao@gmail.com)
+- ✉️Email me at: [getgao@buaa.edu.cn](getgao@buaa.edu.cn) 
   
 
 - My orcid: [https://orcid.org/0009-0008-1096-8396](https://orcid.org/0009-0008-1096-8396)
